@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest tests/test_config.py -v)",
+      "Bash(python -m pytest tests/test_main.py -v)",
+      "Bash(python -m pytest tests/ -v)",
+      "Bash(bash \"C:\\\\Users\\\\MOZAHID\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\6.0.3\\\\skills\\\\subagent-driven-development\\\\scripts\\\\review-package\" 5f423fc4a1b830c777ba92714bae90afb8d558cc 690ae01)",
+      "Bash(bash \"C:\\\\Users\\\\MOZAHID\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\6.0.3\\\\skills\\\\subagent-driven-development\\\\scripts\\\\review-package\" 690ae01 6c6a1e9)"
+    ]
+  }
+}
